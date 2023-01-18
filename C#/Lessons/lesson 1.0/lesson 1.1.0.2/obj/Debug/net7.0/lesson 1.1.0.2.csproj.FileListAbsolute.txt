@@ -1,0 +1,15 @@
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.csproj.AssemblyReference.cache
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.AssemblyInfoInputs.cache
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.AssemblyInfo.cs
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.csproj.CoreCompileInputs.cache
+C:\VSC\lesson 1.1.0.2\bin\Debug\net7.0\lesson 1.1.0.2.exe
+C:\VSC\lesson 1.1.0.2\bin\Debug\net7.0\lesson 1.1.0.2.deps.json
+C:\VSC\lesson 1.1.0.2\bin\Debug\net7.0\lesson 1.1.0.2.runtimeconfig.json
+C:\VSC\lesson 1.1.0.2\bin\Debug\net7.0\lesson 1.1.0.2.dll
+C:\VSC\lesson 1.1.0.2\bin\Debug\net7.0\lesson 1.1.0.2.pdb
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.dll
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\refint\lesson 1.1.0.2.dll
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.pdb
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\lesson 1.1.0.2.genruntimeconfig.cache
+C:\VSC\lesson 1.1.0.2\obj\Debug\net7.0\ref\lesson 1.1.0.2.dll

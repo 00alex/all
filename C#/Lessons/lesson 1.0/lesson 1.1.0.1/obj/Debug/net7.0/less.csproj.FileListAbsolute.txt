@@ -1,0 +1,60 @@
+C:\less\bin\Debug\net7.0\less.exe
+C:\less\bin\Debug\net7.0\less.deps.json
+C:\less\bin\Debug\net7.0\less.runtimeconfig.json
+C:\less\bin\Debug\net7.0\less.dll
+C:\less\bin\Debug\net7.0\less.pdb
+C:\less\obj\Debug\net7.0\less.csproj.AssemblyReference.cache
+C:\less\obj\Debug\net7.0\less.GeneratedMSBuildEditorConfig.editorconfig
+C:\less\obj\Debug\net7.0\less.AssemblyInfoInputs.cache
+C:\less\obj\Debug\net7.0\less.AssemblyInfo.cs
+C:\less\obj\Debug\net7.0\less.csproj.CoreCompileInputs.cache
+C:\less\obj\Debug\net7.0\less.dll
+C:\less\obj\Debug\net7.0\refint\less.dll
+C:\less\obj\Debug\net7.0\less.pdb
+C:\less\obj\Debug\net7.0\less.genruntimeconfig.cache
+C:\less\obj\Debug\net7.0\ref\less.dll
+C:\VSC\less\bin\Debug\net7.0\less.exe
+C:\VSC\less\bin\Debug\net7.0\less.deps.json
+C:\VSC\less\bin\Debug\net7.0\less.runtimeconfig.json
+C:\VSC\less\bin\Debug\net7.0\less.dll
+C:\VSC\less\bin\Debug\net7.0\less.pdb
+C:\VSC\less\obj\Debug\net7.0\less.csproj.AssemblyReference.cache
+C:\VSC\less\obj\Debug\net7.0\less.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\less\obj\Debug\net7.0\less.AssemblyInfoInputs.cache
+C:\VSC\less\obj\Debug\net7.0\less.AssemblyInfo.cs
+C:\VSC\less\obj\Debug\net7.0\less.csproj.CoreCompileInputs.cache
+C:\VSC\less\obj\Debug\net7.0\less.dll
+C:\VSC\less\obj\Debug\net7.0\refint\less.dll
+C:\VSC\less\obj\Debug\net7.0\less.pdb
+C:\VSC\less\obj\Debug\net7.0\less.genruntimeconfig.cache
+C:\VSC\less\obj\Debug\net7.0\ref\less.dll
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.csproj.AssemblyReference.cache
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.AssemblyInfoInputs.cache
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.AssemblyInfo.cs
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.csproj.CoreCompileInputs.cache
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.dll
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\refint\less.dll
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.pdb
+C:\VSC\lesson 1.1.0.1\bin\Debug\net7.0\less.exe
+C:\VSC\lesson 1.1.0.1\bin\Debug\net7.0\less.deps.json
+C:\VSC\lesson 1.1.0.1\bin\Debug\net7.0\less.runtimeconfig.json
+C:\VSC\lesson 1.1.0.1\bin\Debug\net7.0\less.dll
+C:\VSC\lesson 1.1.0.1\bin\Debug\net7.0\less.pdb
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\less.genruntimeconfig.cache
+C:\VSC\lesson 1.1.0.1\obj\Debug\net7.0\ref\less.dll
+C:\VSC\C#\Lessons\lesson 1.1.0.1\bin\Debug\net7.0\less.exe
+C:\VSC\C#\Lessons\lesson 1.1.0.1\bin\Debug\net7.0\less.deps.json
+C:\VSC\C#\Lessons\lesson 1.1.0.1\bin\Debug\net7.0\less.runtimeconfig.json
+C:\VSC\C#\Lessons\lesson 1.1.0.1\bin\Debug\net7.0\less.dll
+C:\VSC\C#\Lessons\lesson 1.1.0.1\bin\Debug\net7.0\less.pdb
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.csproj.AssemblyReference.cache
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.AssemblyInfoInputs.cache
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.AssemblyInfo.cs
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.csproj.CoreCompileInputs.cache
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.dll
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\refint\less.dll
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.pdb
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\less.genruntimeconfig.cache
+C:\VSC\C#\Lessons\lesson 1.1.0.1\obj\Debug\net7.0\ref\less.dll

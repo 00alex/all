@@ -1,0 +1,15 @@
+C:\VSC\C#\practika\practika 1.1\bin\Debug\net7.0\practika 1.1.exe
+C:\VSC\C#\practika\practika 1.1\bin\Debug\net7.0\practika 1.1.deps.json
+C:\VSC\C#\practika\practika 1.1\bin\Debug\net7.0\practika 1.1.runtimeconfig.json
+C:\VSC\C#\practika\practika 1.1\bin\Debug\net7.0\practika 1.1.dll
+C:\VSC\C#\practika\practika 1.1\bin\Debug\net7.0\practika 1.1.pdb
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.csproj.AssemblyReference.cache
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.AssemblyInfoInputs.cache
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.AssemblyInfo.cs
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.csproj.CoreCompileInputs.cache
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.dll
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\refint\practika 1.1.dll
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.pdb
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\practika 1.1.genruntimeconfig.cache
+C:\VSC\C#\practika\practika 1.1\obj\Debug\net7.0\ref\practika 1.1.dll

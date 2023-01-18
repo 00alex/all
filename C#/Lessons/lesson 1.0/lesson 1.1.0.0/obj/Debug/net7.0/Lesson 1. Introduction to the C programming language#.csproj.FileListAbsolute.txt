@@ -1,0 +1,15 @@
+C:\VSC\Lesson 1. Introduction to the C programming language#\bin\Debug\net7.0\Lesson 1. Introduction to the C programming language#.exe
+C:\VSC\Lesson 1. Introduction to the C programming language#\bin\Debug\net7.0\Lesson 1. Introduction to the C programming language#.deps.json
+C:\VSC\Lesson 1. Introduction to the C programming language#\bin\Debug\net7.0\Lesson 1. Introduction to the C programming language#.runtimeconfig.json
+C:\VSC\Lesson 1. Introduction to the C programming language#\bin\Debug\net7.0\Lesson 1. Introduction to the C programming language#.dll
+C:\VSC\Lesson 1. Introduction to the C programming language#\bin\Debug\net7.0\Lesson 1. Introduction to the C programming language#.pdb
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.csproj.AssemblyReference.cache
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.AssemblyInfoInputs.cache
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.AssemblyInfo.cs
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.csproj.CoreCompileInputs.cache
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.dll
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\refint\Lesson 1. Introduction to the C programming language#.dll
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.pdb
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\Lesson 1. Introduction to the C programming language#.genruntimeconfig.cache
+C:\VSC\Lesson 1. Introduction to the C programming language#\obj\Debug\net7.0\ref\Lesson 1. Introduction to the C programming language#.dll
