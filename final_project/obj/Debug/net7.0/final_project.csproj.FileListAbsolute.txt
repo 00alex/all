@@ -1,0 +1,15 @@
+C:\vsc\final_project\bin\Debug\net7.0\final_project.exe
+C:\vsc\final_project\bin\Debug\net7.0\final_project.deps.json
+C:\vsc\final_project\bin\Debug\net7.0\final_project.runtimeconfig.json
+C:\vsc\final_project\bin\Debug\net7.0\final_project.dll
+C:\vsc\final_project\bin\Debug\net7.0\final_project.pdb
+C:\vsc\final_project\obj\Debug\net7.0\final_project.csproj.AssemblyReference.cache
+C:\vsc\final_project\obj\Debug\net7.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsc\final_project\obj\Debug\net7.0\final_project.AssemblyInfoInputs.cache
+C:\vsc\final_project\obj\Debug\net7.0\final_project.AssemblyInfo.cs
+C:\vsc\final_project\obj\Debug\net7.0\final_project.csproj.CoreCompileInputs.cache
+C:\vsc\final_project\obj\Debug\net7.0\final_project.dll
+C:\vsc\final_project\obj\Debug\net7.0\refint\final_project.dll
+C:\vsc\final_project\obj\Debug\net7.0\final_project.pdb
+C:\vsc\final_project\obj\Debug\net7.0\final_project.genruntimeconfig.cache
+C:\vsc\final_project\obj\Debug\net7.0\ref\final_project.dll

@@ -1,0 +1,5 @@
+C:\VSC\obj\Debug\net7.0\VSC.csproj.AssemblyReference.cache
+C:\VSC\obj\Debug\net7.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\obj\Debug\net7.0\VSC.AssemblyInfoInputs.cache
+C:\VSC\obj\Debug\net7.0\VSC.AssemblyInfo.cs
+C:\VSC\obj\Debug\net7.0\VSC.csproj.CoreCompileInputs.cache
