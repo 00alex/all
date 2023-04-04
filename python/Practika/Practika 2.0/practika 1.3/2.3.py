@@ -13,4 +13,4 @@ for i in range(N):
         else:
             stop = 1
     else:
-        i = N
+        i = N 

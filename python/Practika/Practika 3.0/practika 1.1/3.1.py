@@ -18,4 +18,4 @@ else:
     for i in range(N):
         if A_num[i] == X:
             count += 1
-    print(f'Число {X} встречается в списке A {count} раз') 
+    print(f'Число {X} встречается в списке A {count} раз')  
